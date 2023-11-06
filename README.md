@@ -19,5 +19,6 @@ conda activate myenv
 python
 ```
 * If the installation was successful, you can see the version of Python.
-* Then download the dataset file (.CSV) and change the path of the file in the Python code according to the location of the file in your computer. 
-* Copy the Python code (tokenization, fine-tuning, evaluation) and run the command.
+* Then download the AOP-ALL file (.CSV) and change the path of the file in the Python code according to the location of the file in your computer.
+* Download the dataset01 file (.CSV) as the validation dataset.
+* Copy the Python code (T5) and run the command.
